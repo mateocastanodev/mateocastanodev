@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collborate on web development and mobile develop<br>🌱 I'm currently learning Golang more deep<br>💬 Ask me about Angular, GoLang, React, Next.js, Vue.js , Shopify, AWS, Node.js, Nest.js<br>⚡️ Fun fact I love the funko pop figures, actually I have a collection of 72 funko<br>🚀 My second account @mateocgomez<br>🛸 How to reach me mateocdev.github.io
+I'm looking to collaborate on web development and mobile development 🌱 I'm currently learning Ethical Hacking more deeply on Software 💬 Ask me about Angular, GoLang, React, Next.js, Vue.js, Shopify, AWS, Node.js, Nest.js.js<br>⚡️ Fun fact I love the funko pop figures, actually I have a collection of 72 funko<br>🚀 My second account is @mateocgomez<br>🛸 How to reach me: mateocdev.github.io
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@ I'm looking to collborate on web development and mobile develop<br>🌱 I'm curr
 ---
 [![](https://visitcount.itsvg.in/api?id=mateocdev&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mateocdev1) 
 
   
